@@ -2,7 +2,7 @@
  * @author fendyridwan
  * 
  * This page used for configuration setting
- * saya minta ini ditambah
+ * saya minta ini ditambah 1
  *
  */
 package bases;
