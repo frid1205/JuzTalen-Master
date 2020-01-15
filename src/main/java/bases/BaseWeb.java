@@ -1,8 +1,8 @@
 /**
  * @author fendyridwan
  * 
- * This page used for configuration setting
- * first committt
+ * This page used for configuration setting -
+ * 
  *
  */
 package bases;
