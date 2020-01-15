@@ -2,7 +2,7 @@
  * @author fendyridwan
  * 
  * This page used for configuration setting
- * first commit
+ * first committt
  *
  */
 package bases;
