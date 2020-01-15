@@ -1,7 +1,7 @@
 /**
  * @author fendyridwan
  * 
- * This page used for configuration setting -
+ * This page used for configuration setting
  * 
  *
  */
