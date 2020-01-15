@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [MySuite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="firefox"/>
+  <test thread-count="1" parallel="tests" name="Regresion test for 1.5.35(failed)">
+    <classes>
+      <class name="TestCases.AuthenticationUserSignIn">
+        <methods>
+          <include name="A_006_AuthenticationWithEmptyPassword"/>
+          <include name="setBaseConfig"/>
+          <include name="settupTestingData"/>
+          <include name="quitDriver"/>
+          <include name="deleteScreenShot"/>
+        </methods>
+      </class> <!-- TestCases.AuthenticationUserSignIn -->
+    </classes>
+  </test> <!-- Regresion test for 1.5.35(failed) -->
+</suite> <!-- Failed suite [MySuite] -->
